@@ -29,7 +29,7 @@ Learn the ins and outs of blockchain development in this interactive 2-day semin
 
 Programming Blockchain has been running for many months but it is new to Learn.co so let's take this opportunity to orient you to the platform.
 
-### Learn.co
+## Learn.co
 
 #### Navigating the curriculum
 We provide easy navigation to the next lesson, but if you'd like to go back or jump ahead lessons you can navigate between sections using the curriculum tree in the upper left corner:
@@ -46,3 +46,6 @@ If you would like to look at the canonical repo you can click on the Octocat ico
 ![GitHub Icon](https://raw.githubusercontent.com/learn-co-curriculum/intro-to-programming-blockchain-jsong/master/github_icon.png) 
 
 If you replace the `learn-co-students` portion of the url `github.com/learn-co-students/repo-name` with your GitHub username (i.e. `github.com/your_username/repo-name`) you will get you directly to your forked version.
+
+#### Solutions
+If you are having a hard time solving a lab, we've provided a `solution.ipynb` notebook within the repo that has the answers.
