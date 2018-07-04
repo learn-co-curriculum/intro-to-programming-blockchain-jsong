@@ -30,11 +30,15 @@ Learn the ins and outs of blockchain development in this interactive 2-day semin
 Programming Blockchain has been running for many months but it is new to Learn.co so let's take this opportunity to orient you to the platform.
 
 ### Learn.co
-Learn natively supports Jupyter Notebooks. In previous sessions students download the [pb-exercises repo](https://github.com/jimmysong/pb-exercises) and use the Jupyter Notebooks to manipulate example code and understand concepts, but the tests run by modifying files within the Session directory. On Learn you shouldn't need to leave the notebook as we will run the tests with the button and return the output:
-INSERT RUN TEST IMG
 
-If you would like to look at the canonical repo you can click on the Octocat icon:
-INSERT OCTOCAT IMG
-
+#### Navigating the curriculum
 We provide easy navigation to the next lesson, but if you'd like to go back or jump ahead lessons you can navigate between sections using the curriculum tree in the upper left corner:
-INSERT CURRICULUM TREE
+![curriculum tree](./curriculum_tree.png)
+
+#### Running Tests
+Learn natively supports Jupyter Notebooks. In previous sessions students download the [pb-exercises repo](https://github.com/jimmysong/pb-exercises) and use the Jupyter Notebooks to manipulate example code and understand concepts, but the tests run by modifying files within the Session directory. On Learn you shouldn't need to leave the notebook as we will run the tests with the button and return the output:
+![run_tests](./run_tests.png)
+
+#### Looking at the repo
+If you would like to look at the canonical repo you can click on the Octocat icon:
+![GitHub Icon](./github_icon.png)
