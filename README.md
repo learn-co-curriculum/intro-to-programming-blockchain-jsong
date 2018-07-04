@@ -45,4 +45,4 @@ We've interspersed many of the test driven exercise (labeled as such) with the c
 If you would like to look at the canonical repo you can click on the Octocat icon:
 ![GitHub Icon](https://raw.githubusercontent.com/learn-co-curriculum/intro-to-programming-blockchain-jsong/master/github_icon.png) 
 
-If you replace the `learn-co-students` portion of the url github.com/learn-co-students/repo-name with your GitHub username (i.e. github.com/your_username/repo-name) you will get you directly to your forked version.
+If you replace the `learn-co-students` portion of the url `github.com/learn-co-students/repo-name` with your GitHub username (i.e. `github.com/your_username/repo-name`) you will get you directly to your forked version.
