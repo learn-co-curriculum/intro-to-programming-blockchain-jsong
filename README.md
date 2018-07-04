@@ -36,9 +36,11 @@ We provide easy navigation to the next lesson, but if you'd like to go back or j
 ![curriculum tree](https://raw.githubusercontent.com/learn-co-curriculum/intro-to-programming-blockchain-jsong/master/curriculum_tree.png)
 
 #### Running Tests
-Learn natively supports Jupyter Notebooks. In previous sessions students download the [pb-exercises repo](https://github.com/jimmysong/pb-exercises) and use the Jupyter Notebooks to manipulate example code and understand concepts, but the tests run by modifying files within the Session directory. On Learn you shouldn't need to leave the notebook as we will run the tests with the button and return the output:
+Learn natively supports Jupyter Notebooks. In previous sessions students download the [pb-exercises repo](https://github.com/jimmysong/pb-exercises) and use the Jupyter Notebooks to manipulate example code and understand concepts, but the tests run by modifying files within the Session X directory. On Learn.co you shouldn't need to leave the notebook as we will run the tests with the blue button seen below and return the output:
 ![run_tests](https://raw.githubusercontent.com/learn-co-curriculum/intro-to-programming-blockchain-jsong/master/run_tests.png)
 
-#### Looking at the repo
+We've interspersed many of the test driven exercise (labeled as such) with the coding examples, but if you are looking for the test driven exercises a good rule of thumb is that the stubbed out methods end with a `pass` line. The tests running against the notebook can be found in the `/test` dir in the file `index_test.py`.
+
+#### Looking at the code on GitHub
 If you would like to look at the canonical repo you can click on the Octocat icon:
-![GitHub Icon](https://raw.githubusercontent.com/learn-co-curriculum/intro-to-programming-blockchain-jsong/master/github_icon.png)
+![GitHub Icon](https://raw.githubusercontent.com/learn-co-curriculum/intro-to-programming-blockchain-jsong/master/github_icon.png). If you replace the `learn-co-students` portion of the url github.com/learn-co-students/repo-name with your github username that will get you directly to your forked version.
