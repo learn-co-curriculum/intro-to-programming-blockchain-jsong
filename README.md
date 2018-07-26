@@ -28,4 +28,4 @@ We will be forking all of the Jupyter Notebooks you view, which means you will h
 If you are having a hard time solving a lab, we've provided a `solution.ipynb` notebook within the repo that has the answers. Things move pretty quickly during the seminar so don't feel bashful about getting some hints from that notebook.
 
 ### This is new so feedback is very welcome
-Hosting Programming Bitcoin on learn is an experiment and so feedback is very welcome. We want to make this as great an experience as possible so please don't be shy with suggestions or raising bugs. It's all appreciated.
+Hosting Programming Bitcoin on Learn is still new and so feedback is very welcome. We want to make this as great an experience as possible so please don't be shy with suggestions or raising bugs. It's all appreciated.
